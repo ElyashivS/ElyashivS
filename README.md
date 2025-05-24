@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elyashiv. I'm a Full-Stack developer at Elbit System Ltd.
+My name is Elyashiv and I'm a Full-Stack developer at Elbit System Ltd.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyashivS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
